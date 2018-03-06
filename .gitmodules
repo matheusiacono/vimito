@@ -25,3 +25,9 @@
 [submodule "pack/iacono/start/html5-vim"]
 	path = pack/iacono/start/html5-vim
 	url = https://github.com/othree/html5.vim.git
+[submodule "pack/iacono/start/vim-css-color"]
+	path = pack/iacono/start/vim-css-color
+	url = https://github.com/ap/vim-css-color.git
+[submodule "pack/iacono/start/vim-css3-syntax"]
+	path = pack/iacono/start/vim-css3-syntax
+	url = https://github.com/hail2u/vim-css3-syntax.git
