@@ -31,3 +31,6 @@
 [submodule "pack/iacono/start/vim-css3-syntax"]
 	path = pack/iacono/start/vim-css3-syntax
 	url = https://github.com/hail2u/vim-css3-syntax.git
+[submodule "pack/iacono/start/vim-graphql"]
+	path = pack/iacono/start/vim-graphql
+	url = git@github.com:jparise/vim-graphql.git
