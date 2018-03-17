@@ -8,6 +8,7 @@ set fileencoding=utf-8
 set expandtab
 set shiftwidth=2
 set softtabstop=2
+set pastetoggle=<F3>
 
 imap jj <ESC>
 imap <C-@> <C-P>
