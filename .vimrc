@@ -49,9 +49,7 @@ let g:netrw_dirhistmax = 0
 let g:user_emmet_settings = { 'javascript.jsx': { 'extends': 'jsx' } }
 let g:airline#extensions#ale#enabled = 1
 
-let g:ale_fixers = {
-\   'javascript': ['eslint'],
-\}
+let g:ale_fixers = { 'javascript': ['eslint'] }
 let g:ale_fix_on_save = 1
 
 syntax on
