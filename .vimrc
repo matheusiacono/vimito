@@ -10,6 +10,9 @@ set shiftwidth=2
 set softtabstop=2
 set pastetoggle=<F3>
 
+set incsearch
+set hlsearch
+
 imap jj <ESC>
 imap <C-@> <C-P>
 
