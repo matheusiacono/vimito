@@ -13,6 +13,10 @@ set pastetoggle=<F3>
 set incsearch
 set hlsearch
 
+if has('gui_running')
+  set guifont=Fira\ Mono\ 10
+endif
+
 imap jj <ESC>
 imap <C-@> <C-P>
 
