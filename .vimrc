@@ -48,7 +48,11 @@ endif
 let g:netrw_dirhistmax = 0
 
 let g:user_emmet_settings = { 'javascript.jsx': { 'extends': 'jsx' } }
+
 let g:airline#extensions#ale#enabled = 1
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#formatter = 'jsformatter'
+let g:airline_powerline_fonts = 1
 
 let g:ale_fixers = { 'javascript': ['eslint'] }
 let g:ale_fix_on_save = 1
