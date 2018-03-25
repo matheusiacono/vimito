@@ -14,11 +14,10 @@ set incsearch
 set hlsearch
 
 if has('gui_running')
-  set guifont=Fira\ Mono\ 10
+  set guifont=FuraMono\ Nerd\ Font\ Mono\ 10
 endif
 
 imap jj <ESC>
-imap <C-@> <C-P>
 
 inoremap { {}<Left>
 inoremap {<CR> {<CR>}<Esc>O
