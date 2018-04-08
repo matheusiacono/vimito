@@ -14,7 +14,7 @@ set incsearch
 set hlsearch
 
 if has('gui_running')
-  set guifont=FuraMono\ Nerd\ Font\ Mono\ 10
+  set guifont=Fira\ Mono\ 10
 endif
 
 imap jj <ESC>
