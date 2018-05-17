@@ -13,6 +13,8 @@ set pastetoggle=<F3>
 set incsearch
 set hlsearch
 
+set clipboard=unnamed
+
 if has('gui_running')
   set guifont=Fira\ Mono\ 10
 endif
